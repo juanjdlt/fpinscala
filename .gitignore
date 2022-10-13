@@ -12,3 +12,17 @@ project.vim
 .metadata/
 .bsp
 .metals
+.DS_Store
+dist/
+target/
+.bloop/
+.bsp/
+project/metals.sbt
+coursier
+metals.sbt
+.idea/
+.vscode/
+.jvmopts
+.java-version
+node_modules
+package-lock.json
